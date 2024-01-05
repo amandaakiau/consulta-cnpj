@@ -9,7 +9,7 @@ Ter python instalado na máquina (*versão utilizada: Python 3.11.4*)
 ## Como rodar este código:
 
 1) Clonar projeto   
-   ``` git clone ... ```
+   ``` git clone https://github.com/amandaakiau/consulta_cnpj.git ```
 
 2) Na raiz do projeto, inserir o comando:  
    ``` python main.py ```
